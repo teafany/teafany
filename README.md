@@ -1,16 +1,29 @@
-## Hi there 👋
 
-<!--
-**teafany/teafany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&repeat=false&vCenter=true&width=435&lines=Hi,+I'm+Tiffany+:)" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=teafany&theme=github_dark" width="300" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=teafany&theme=github_dark" width="300" />
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,git,github,figma,html,css,tailwind,bash,js,ts,react,cpp" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/ttiffanychen">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="30" />
+  </a>
+    <a href="mailto:tiffany121705@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="30" />
+  </a>
+</div>
