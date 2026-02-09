@@ -1,10 +1,11 @@
 
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&repeat=false&vCenter=true&width=435&lines=Hi,+I'm+Tiffany+:)" />
+<div align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=false&repeat=false&vCenter=true&width=435&lines=Hi,+I'm+Tiffany+:)" />
 </div>
 
-<div align="center">
+<!--why is this broken>
+<!-- <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=teafany&theme=github_dark" width="300" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=teafany&theme=github_dark" width="300" />
 </div>
@@ -15,11 +16,11 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,git,github,figma,html,css,tailwind,java,js,ts,react,cpp"  width="600" />
   </a>
-</div>
+</div> -->
 
 <br>
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/ttiffanychen">
     <img src="https://skillicons.dev/icons?i=linkedin" width="30" />
   </a>
