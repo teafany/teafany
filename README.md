@@ -20,7 +20,7 @@
 
 <br>
 
-<div align="left" style="text-decoration: none;>
+<div align="left" style="text-decoration: none;">
   <a href="https://www.linkedin.com/in/ttiffanychen">
     <img src="https://skillicons.dev/icons?i=linkedin" width="30" />
   </a>
