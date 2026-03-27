@@ -1,6 +1,6 @@
 **hi, i'm tiffany :)**
 
-computer science @ uf 🐊
+computer science @ uf '27 🐊
 
 <div>
     <a href="mailto:tiffany121705@gmail.com">
