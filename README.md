@@ -1,6 +1,8 @@
 **hi, i'm tiffany :)**
 
-computer science @ uf '27 🐊
+computer science @ UF '27 🐊
+<br>
+swe intern @ Publix Technology
 
 <div>
     <a href="mailto:tiffany121705@gmail.com">
@@ -13,6 +15,6 @@ computer science @ uf '27 🐊
     linkedin.com/in/ttiffanychen
   </a>
 </div>
-<br>
+<!-- <br> -->
 
-`python` `javascript` `typescript` `react` `figma` `tailwindcss` `c++` 
+<!-- `python` `javascript` `typescript` `react` `figma` `tailwindcss` `c++` -->
