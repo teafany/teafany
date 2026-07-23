@@ -10,7 +10,7 @@ swe intern @ Publix Technology
     tiffany121705@gmail.com
   </a>
   <br />
-  <a href="https://www.linkedin.com/in/ttiffanychen">
+  <a href="https://www.linkedin.com/in/ttiffanychen" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=linkedin" width="20" />
     linkedin.com/in/ttiffanychen
   </a>
