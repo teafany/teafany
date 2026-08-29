@@ -1,8 +1,10 @@
 **hi, i'm tiffany :)**
 
-computer science @ UF '27 🐊
+computer science @ UF 🐊
 <br>
-swe intern @ Publix Technology
+⤷ minor in digital arts & sciences
+<br>
+⤷ prev. swe intern @ Publix Technology
 
 <div>
     <a href="mailto:tiffany121705@gmail.com">
