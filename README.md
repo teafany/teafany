@@ -1,27 +1,27 @@
-<img align="right" src="teafany.png" width="320" alt="Tiffany" />
+<img align="right" src="teafany.png" width="310" alt="Tiffany" />
 
 <a href="https://git.io/typing-svg">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=30&amp;duration=1000&amp;pause=200&amp;color=FFFFFF&amp;multiline=true&amp;repeat=false&amp;width=300&amp;height=90&amp;lines=hello+world%2C;I%27m+Tiffany%21"
+      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=30&amp;duration=1000&amp;pause=200&amp;color=FFFFFF&amp;multiline=true&amp;repeat=false&amp;width=300&amp;height=90&amp;lines=Hello+world%2C;I%27m+Tiffany%21"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=30&amp;duration=1000&amp;pause=200&amp;color=000000&amp;multiline=true&amp;repeat=false&amp;width=300&amp;height=90&amp;lines=hello+world%2C;I%27m+Tiffany%21"
+      srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=30&amp;duration=1000&amp;pause=200&amp;color=000000&amp;multiline=true&amp;repeat=false&amp;width=300&amp;height=90&amp;lines=Hello+world%2C;I%27m+Tiffany%21"
     />
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=30&amp;duration=1000&amp;pause=200&amp;color=000000&amp;multiline=true&amp;repeat=false&amp;width=300&amp;height=90&amp;lines=hello+world%2C;I%27m+Tiffany%21"
-      alt="hello world, / I'm Tiffany!"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=30&amp;duration=1000&amp;pause=200&amp;color=000000&amp;multiline=true&amp;repeat=false&amp;width=300&amp;height=90&amp;lines=Hello+world%2C;I%27m+Tiffany%21"
+      alt="Hello world, / I'm Tiffany!"
     />
   </picture>
 </a>
 <br><br>
-computer science @ UF 🐊
+Computer Science @ UF 🐊
 <br>
-⤷ minor in digital arts &amp; sciences
+⤷ Minor in Digital Arts &amp; Sciences
 <br>
-⤷ prev. swe intern @ Publix Technology
+⤷ Previous SWE Intern @ Publix Technology
 
 <br><br>
 <div>
