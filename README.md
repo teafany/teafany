@@ -1,4 +1,4 @@
-<img align="right" src="teafany.png" width="310" alt="Tiffany" />
+<img align="right" src="teafany.png" width="300" alt="Tiffany" />
 
 <a href="https://git.io/typing-svg">
   <picture>
